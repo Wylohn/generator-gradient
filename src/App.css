@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.gradient {
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+}
+
+.gradient_frame {
+  position: relative;
+  margin: 0 auto;
+  width: 900px;
+  height: 400px;
+}
